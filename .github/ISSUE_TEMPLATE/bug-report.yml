@@ -27,10 +27,11 @@ body:
     attributes:
       label: Tools used
       options:
-        - RVX Manager
+        - Morphe Manager
+        - URV Manager
         - rvx-builder
-        - Revancify
-        - CLI
+        - Revancify/Enhancify
+        - Morphe CLI
     validations:
       required: true
   - type: textarea
