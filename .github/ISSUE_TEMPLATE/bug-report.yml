@@ -29,7 +29,6 @@ body:
       options:
         - Morphe Manager
         - URV Manager
-        - rvx-builder
         - Revancify/Enhancify
         - Morphe CLI
     validations:
